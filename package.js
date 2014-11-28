@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Nicely formatted dropdown list of timezones, based on moment. Also timezone detection.",
-  version: '0.1.1',
+  version: '0.1.2',
   name: "joshowens:timezone-picker",
   git: 'https://github.com/MeteorClub/timezone-picker'
 });

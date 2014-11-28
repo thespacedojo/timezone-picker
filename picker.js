@@ -9,6 +9,7 @@ Template.timezonePicker.helpers({
         return ele.name === tz;
       });
     });
+    usList.push({name: "", timezone: "", gmtOffset: ""});
     return usList.concat(list);
   },
   selected: function() {
